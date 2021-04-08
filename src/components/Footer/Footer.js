@@ -11,7 +11,7 @@ const footer = () => {
                 <a href={resume} download>Resume</a>
             </div>
             <div className={classes.right}>
-                Site By ALEX FOREST
+                <p>Site By ALEX FOREST</p>
             </div>
         </div>
     )

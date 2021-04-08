@@ -16,6 +16,8 @@
 .skillsContainer {
     display: flex;
     justify-content: space-around;
+    width: 1000px;
+    margin: auto;
 }
 .skillsDesc {
     width: 400px;
