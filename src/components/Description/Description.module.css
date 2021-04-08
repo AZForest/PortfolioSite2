@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700&display=swap');
+
+.Description {
+    height: 450px;
+    width: 100%;
+    background-color: black;
+    color: gainsboro;
+    font-family: 'Exo 2', sans-serif;
+    /* border-top-right-radius: 25%; */
+}
+.Description h1 {
+    font-size: 24px;
+    margin: 0;
+    padding: 80px 0;
+}
+.skillsContainer {
+    display: flex;
+    justify-content: space-around;
+}
+.skillsDesc {
+    width: 400px;
+}
+.skillsDesc p {
+    margin: 40px 0;
+}
+.imagesContainer {
+    display: flex;
+    width: 300px;
+    flex-wrap: wrap;
+}
