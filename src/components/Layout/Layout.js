@@ -5,7 +5,6 @@ import Header from '../Header/Header';
 import Description from '../Description/Description';
 import Projects from '../Projects/Projects';
 import Skills from '../Skills/Skills';
-import Modal from '../Modal/Modal';
 
 const Layout = (props) => {
     const scrollToDiv = (ref) => window.scrollTo(0, ref.current.offsetTop);

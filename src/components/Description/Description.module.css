@@ -30,3 +30,26 @@
     width: 300px;
     flex-wrap: wrap;
 }
+
+@media (max-width: 450px) {
+    .Description h1 {
+        width: 300px;
+        margin: auto;
+        font-size: 20px;
+        padding: 80px 0 20px 0;
+    }
+    .skillsContainer {
+        width: 100%;
+        flex-direction: column;
+    }
+    .skillsDesc {
+        width: 80%;
+        margin: auto;
+    }
+    .imagesContainer {
+        margin: auto;
+    }
+    .imagesContainer img {
+        margin: auto;
+    }
+}

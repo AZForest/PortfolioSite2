@@ -4,6 +4,7 @@ import classes from './Skills.module.css';
 const skills = () => {
     return (
         <div className={classes.Skills}>
+            <div className={classes.skillsSectionDivider}></div>
             <div className={classes.skillsSection}>
                 <h3>JAVASCRIPT</h3>
                 <p>ES6</p>
@@ -29,7 +30,7 @@ const skills = () => {
                 {/* <p>Redux Thunk</p> */}
             </div>
             <div className={classes.skillsSection}>
-                <h3>SERVER/BACKEND</h3>
+                <h3>SERVER / BACKEND</h3>
                 <p>Express JS</p>
                 <p>Node.js</p>
                 <p>MongoDB</p>

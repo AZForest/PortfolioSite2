@@ -12,7 +12,7 @@ const description = () => {
             <div className={classes.skillsContainer}>
                 <div className={classes.skillsDesc}>
                     <p>I am a primarily self-taught developer who specializes in JavaScript and React. Additional skills include Node JS, Express JS, Redux, and MongoDB.</p>
-                    <p>Trained for Geographic Information Systems in school, I encountered both Java (CS courses) and Python (GIS courses) as my first languages.</p>
+                    <p>Trained for Geographic Information Systems in university, I encountered both Java (CS courses) and Python (GIS courses) as my first languages.</p>
                 </div>
                 <div className={classes.imagesContainer}>
                     <img src={jsImage} height={100} width={100} alt="#"/>

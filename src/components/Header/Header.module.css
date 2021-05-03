@@ -51,3 +51,12 @@ button:hover {
 button:focus {
     outline: none;
 }
+
+@media (max-width: 450px) {
+    .MainBg {
+        height: 350px;
+    }
+    .MainBg h1 {
+        padding-top: 80px;
+    }
+}

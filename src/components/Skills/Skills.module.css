@@ -35,3 +35,15 @@
     to {transform: scale(1.05)}
 }
 
+@media (max-width: 450px) {
+    .Skills {
+        padding-top: 250px;
+        flex-wrap: wrap;
+    }
+    .skillsSection {
+        width: 30%;
+        margin: 10px;
+    }
+    
+}
+

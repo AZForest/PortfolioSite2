@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import classes from './Projects.module.css';
 import Project from './Project/Project';
 import weatherPic from '../../assets/WeatherFinder.png';
@@ -60,7 +60,6 @@ class Projects extends React.Component {
     let flightDesc4 = "React";
     let flightDesc5 = "MongoDB"
     let weatherDesc = "AJAX";
-    let weatherDesc2 = "";
 
     return (
         <div className={classes.Projects} ref={this.props.reference}>

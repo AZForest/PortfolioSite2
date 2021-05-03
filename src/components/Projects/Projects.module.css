@@ -19,3 +19,12 @@
     margin:  20px auto;
     flex-wrap: wrap;
 }
+
+@media (max-width: 450px) {
+    .Projects {
+        height:fit-content;
+    }
+    .ProjectsContainer {
+        width: 100%;
+    }
+}
