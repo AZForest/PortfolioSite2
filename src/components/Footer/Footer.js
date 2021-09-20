@@ -1,6 +1,6 @@
 import React from 'react';
 import classes from './Footer.module.css';
-import resume from '../../assets/AFResume.pdf';
+import resume from '../../assets/AlexForestResume.pdf';
 
 const footer = () => {
     return (
