@@ -7,7 +7,7 @@ const footer = () => {
         <div className={classes.Footer}>
             <div className={classes.left}>
                 <a href="https://github.com/AZForest" target="_blank" rel="noopener noreferrer">Github</a>
-                <a href="https://https://www.linkedin.com/in/alex-forest" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/alex-forest" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                 <a href={resume} download>Resume</a>
             </div>
             <div className={classes.right}>
