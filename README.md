@@ -2,6 +2,8 @@
 
 This React project is my professional developer portfolio, which contains my projects, skills, resume, and contact info. Each project hosted on the site also contains a demo video, a link to the live project, and a link to the github repo of the project. 
 
+Live Link: [Portfolio Site](https://azforest.github.io/PortfolioSite2/)
+
 ## Screenshots
 
 ### Header:
