@@ -1,22 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700&display=swap');
 
 .Projects {
-    background: linear-gradient(black, rgb(30,30,30), black);
+    background: linear-gradient(rgb(41, 21, 13), rgb(30,30,30), black);
+    background: linear-gradient(black, rgb(17, 36, 17), black);
     color: gainsboro;
-    height: 700px;
+    /*height: 700px;*/
     width: 100%;
     font-family: "Exo 2", sans-serif;
 }
 .Projects h1 {
     font-size: 24px;
     margin: 0;
-    padding: 20px 0 0 0;
+    padding: 0px 0 0 0;
 }
 .ProjectsContainer {
     display: flex;
     width: 800px;
     justify-content: center;
-    margin:  20px auto;
+    margin:  0px auto;
     flex-wrap: wrap;
 }
 

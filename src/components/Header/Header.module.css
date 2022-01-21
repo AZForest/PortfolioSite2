@@ -19,6 +19,7 @@
 .MainBg h1 {
     z-index: 0; 
     text-shadow: 1px 1px 1px black;
+    /*text-shadow: 0 0 10px #b3eda5;*/
     font-size: 50px;
     padding-top: 140px;
     margin: 0;

@@ -6,7 +6,7 @@ const header = (props) => {
         <div className={classes.MainBg}>
             <div className={classes.covering}>
                 <h1>Alex Forest</h1>
-                <h4>Software Developer</h4>
+                <h4>Software Engineer</h4>
                 <button onClick={props.click}>See Projects</button>
             </div>
         </div>

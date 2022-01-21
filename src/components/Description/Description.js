@@ -8,10 +8,12 @@ import reduxImage from '../../assets/redux.png';
 const description = () => {
     return (
         <div className={classes.Description}>
-            <h1>FRONT END FOCUSED WITH FULL STACK EXPERIENCE</h1>
+            {/*<h1>FRONT END FOCUSED WITH FULL STACK EXPERIENCE</h1>*/}
+            <h1>FULL STACK ENGINEER WITH MULTI-STACK EXPERIENCE</h1>
             <div className={classes.skillsContainer}>
                 <div className={classes.skillsDesc}>
-                    <p>I am a primarily self-taught developer who specializes in JavaScript and React. Additional skills include Node JS, Express JS, Redux, and MongoDB.</p>
+                    {/*<p>I am a primarily self-taught developer who specializes in JavaScript and React. Additional skills include Node JS, Express JS, Redux, and MongoDB.</p>*/}
+                    <p>Initially self-taught (C#/.NET, MERN stack), I then certified and honed my skills with a certificate from Thinkful's Software Engineering program (PERN stack). </p>
                     <p>Trained for Geographic Information Systems in university, I encountered both Java (CS courses) and Python (GIS courses) as my first languages.</p>
                 </div>
                 <div className={classes.imagesContainer}>

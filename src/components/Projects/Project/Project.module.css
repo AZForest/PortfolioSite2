@@ -7,13 +7,19 @@
 }
 .Project:hover {
     cursor: pointer;
-    transform: translateY(-3px);
+    transform: translateY(-1px);
     box-shadow: 0 0 15px #b3eda5;
 
 }
 .container {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+}
+.container img {
+    margin-right: 10px;
+}
+.container div {
+    margin-left: 10px;
 }
 .descContainer p {
     font-size: 14px;
