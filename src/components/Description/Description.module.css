@@ -15,24 +15,26 @@
 }
 .skillsContainer {
     display: flex;
-    justify-content: space-around;
-    width: 1000px;
+    justify-content: center;
+    width: 100%;
     margin: auto;
     padding-bottom: 40px;
 }
 .skillsDesc {
     width: 400px;
+    margin-right: 20px;
 }
 .skillsDesc p {
     margin: 40px 0;
 }
 .imagesContainer {
+    margin-left: 20px;
     display: flex;
     width: 300px;
     flex-wrap: wrap;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 550px) {
     .Description h1 {
         width: 300px;
         margin: auto;

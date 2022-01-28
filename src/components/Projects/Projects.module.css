@@ -11,11 +11,11 @@
 .Projects h1 {
     font-size: 24px;
     margin: 0;
-    padding: 0px 0 0 0;
+    padding: 20px 0 0 0;
 }
 .ProjectsContainer {
     display: flex;
-    width: 800px;
+    width: 100%;
     justify-content: center;
     margin:  0px auto;
     flex-wrap: wrap;

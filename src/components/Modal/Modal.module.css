@@ -127,7 +127,7 @@
         margin: 0;
         flex-direction: column;
     }
-    .Modal video {
+    .Modal video, .Modal img {
         width: 100%;
         height: 50%;
     }
